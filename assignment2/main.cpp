@@ -1,7 +1,7 @@
 /*  Requirements for this MP
  
  You must implement 3 classes with constructors and destructors to mimic the print statements listed below.
- You may not modify any of the constructors or member varibales in the Base class, however, you will have to add additional methods. You should write a Derived class, a ParameterDerived class, and a DoubleDerived class. You must also write a makefile (which should be fairly simple) to compile this project.
+ You may not modify any of the constructors or member variables in the Base class, however, you will have to add additional methods. You should write a Derived class, a ParameterDerived class, and a DoubleDerived class. You must also write a makefile (which should be fairly simple) to compile this project.
  You must only print in your constructors and destructors and cout<< must not appear outside of them.
  Your DoubleDerived class should inherit from the Derived class, and it must not be able to access any of Derived class's members (Hint class DoubleDerived: ... ). You also must fix any memory leaks.
  Check Piazza for the hint if your ouput is funky!
